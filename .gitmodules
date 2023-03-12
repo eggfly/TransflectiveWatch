@@ -1,0 +1,3 @@
+[submodule "pio/ThymeWatch_FactoryTest/lib/Adafruit_SHARP_Memory_Display"]
+	path = pio/ThymeWatch_FactoryTest/lib/Adafruit_SHARP_Memory_Display
+	url = https://github.com/eggfly/Adafruit_SHARP_Memory_Display.git
